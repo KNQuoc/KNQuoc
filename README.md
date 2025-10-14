@@ -5,9 +5,9 @@
 I'm a **Computer Science student** at Bowling Green State University, specializing in **Data Science** with a passion for building scalable systems and AI-powered solutions. Currently working as a Software Engineer Intern at **Toronto Academy of EMC**, where I'm developing full-stack applications that impact 400+ students' academic journeys.
 
 - 🎓 **CS Student** at BGSU (Graduating May 2027)
-- 💼 **Software Engineer Intern** at Toronto Academy of EMC
+- 💼 **Software Engineer Intern** at Magic Hour (YC W25)
 - 🌱 **Specializing** in Data Science, AI/ML, and Full-Stack Development
-- 🎮 **Esports Tech** - Built systems that helped 20+ players reach Tier 1 VALORANT teams
+
 
 ## 🔭 What I'm Currently Working On
 
@@ -42,9 +42,9 @@ I'm a **Computer Science student** at Bowling Green State University, specializi
 
 ## 📈 GitHub Stats
 
-![Kien's GitHub stats](https://github-readme-stats.vercel.app/api?username=KNQuoc&show_icons=true&theme=tokyonight)
+![Kien's GitHub stats](https://github-readme-stats.vercel.app/api?username=KNQuoc&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KNQuoc&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KNQuoc&layout=compact&theme=tokyonight&count_private=true)
 
 ## 🤝 Let's Connect!
 
